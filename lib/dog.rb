@@ -2,6 +2,8 @@ class Dog
  def bark
         puts "Woof!"
  end
+
+ #instance method of a dog sitting
  def sit
     puts "The Dog is sitting"
  end
